@@ -138,8 +138,9 @@ npm run dev
 ### The tester will:
 1. Clone and install your submitted GitHub repository.
     1. `git clone <your_submitted_github_repo>`
-    2. `npm install` (package.json should exist)
-    3. `npm run dev` (configured to default port 3000)
+    2.  `cd <cloned dir>`
+    3. `npm install` (package.json should exist)
+    4. `npm run dev` (configured to default port 3000)
 3. Start the server with a JSON file. It will always contain at least one post.
     1. `npx json-server --port 3001 ./data/notes.json`
 4. Run tests.
