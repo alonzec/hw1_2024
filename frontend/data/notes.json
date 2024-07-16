@@ -1,0 +1,85 @@
+{
+  "notes": [
+    {
+      "id": 3,
+      "title": "Note 3",
+      "author": {
+        "name": "Author 3",
+        "email": "mail_2@gmail.com"
+      },
+      "content": "Content for note 3"
+    },
+    {
+      "id": 6,
+      "title": "Note 6",
+      "author": {
+        "name": "Author 6",
+        "email": "mail_2@gmail.com"
+      },
+      "content": "Content for note 6"
+    },
+    {
+      "id": 7,
+      "title": "Note 7",
+      "author": {
+        "name": "Author 7",
+        "email": "mail_2@gmail.com"
+      },
+      "content": "Content for note 7"
+    },
+    {
+      "id": 8,
+      "title": "Note 8",
+      "author": {
+        "name": "Author 8",
+        "email": "mail_2@gmail.com"
+      },
+      "content": "Content for note 8"
+    },
+    {
+      "id": 9,
+      "title": "Note 9",
+      "author": {
+        "name": "Author 9",
+        "email": "mail_2@gmail.com"
+      },
+      "content": "Content for note 9"
+    },
+    {
+      "id": 1000,
+      "title": "New Note",
+      "author": {
+        "name": "New Author",
+        "email": "newMail@post.bgu.ac.il"
+      },
+      "content": "Alon"
+    },
+    {
+      "id": 1001,
+      "title": "New Note",
+      "author": {
+        "name": "New Author",
+        "email": "newMail@post.bgu.ac.il"
+      },
+      "content": "yarden"
+    },
+    {
+      "id": 1002,
+      "title": "New Note",
+      "author": {
+        "name": "New Author",
+        "email": "newMail@post.bgu.ac.il"
+      },
+      "content": "Alon and Yarden"
+    },
+    {
+      "id": 1003,
+      "title": "New Note",
+      "author": {
+        "name": "New Author",
+        "email": "newMail@post.bgu.ac.il"
+      },
+      "content": "hi"
+    }
+  ]
+}
